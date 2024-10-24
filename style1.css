@@ -22,6 +22,9 @@
     
     
 }
+.key1:active{
+    opacity:50%;
+}
 .div1{
     display: inline-block;
     width: 90px;
